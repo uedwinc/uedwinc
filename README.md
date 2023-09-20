@@ -5,7 +5,7 @@ I'm Edwin Ugwu. I am into Data Analysis and Data Science. I love exploring and b
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-ugwu/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:edwinbuike@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Edwin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-ugwu/) [![Mail Badge](https://img.shields.io/badge/-edwinugwu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:edwinbuike@gmail.com)
 
 
 <!-- TODO: Add last video link -->
@@ -21,6 +21,7 @@ I'm Edwin Ugwu. I am into Data Analysis and Data Science. I love exploring and b
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![microsoftexcel Badge](https://img.shields.io/badge/-excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) [![python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![MySql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#) [![powerbi](https://img.shields.io/badge/-powerbi-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)](#)
+
 ![linux][linux] ![aws][aws] ![git][git] ![jenkins][jenkins] ![docker][docker]
 
 
