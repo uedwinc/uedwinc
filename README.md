@@ -35,3 +35,7 @@ I'm Edwin Ugwu. I am into Data Analysis and Data Science. I love exploring and b
 [git]: <https://img.shields.io/badge/git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032>
 [jenkins]: <https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939>
 [docker]: <https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED>
+
+<a href="https://github.com/uedwinc/NodeApp-with-Docker
+" target="_blank"><img src="https://github.com/uedwinc/NodeApp-with-Docker/blob/main/images/dk%20push2.png" 
+alt="Nodeapp" width="240" height="180" border="10" /></a>
