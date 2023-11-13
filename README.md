@@ -1,7 +1,7 @@
-## Hi I'm Edwin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi I'm Edwin Ugwu <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 
-I'm Edwin Ugwu. I am into Data Analysis and Data Science. I love exploring and building machine learning models and I am currently learning how to deploy these models into production (**MLOps**). I am also diving into Cloud Engineering and **DevOps**.
+I am a Cloud and DevOps Engineer specializing in AWS. I am also into Data Analysis and Data Science. I love exploring and building machine learning models and I am currently learning how to deploy these models into production (**MLOps**).
 
 :mailbox: Reach me out!
 
@@ -16,7 +16,7 @@ I'm Edwin Ugwu. I am into Data Analysis and Data Science. I love exploring and b
 - 📫 How to reach me: edwinbuike@gmail.com.
 - ⚡ Fun fact: I go to the GYM very often.
 
-#### Top Technologies
+#### Top Technologies I Use
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
