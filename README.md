@@ -20,7 +20,7 @@ I'm Edwin Ugwu. I am into Data Analysis and Data Science. I love exploring and b
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![microsoftexcel Badge](https://img.shields.io/badge/-excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) [![python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![MySql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#) [![powerbi](https://img.shields.io/badge/-powerbi-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)](#) ![tableau](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)
+[![microsoftexcel Badge](https://img.shields.io/badge/-excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) [![python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![MySql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#) [![powerbi](https://img.shields.io/badge/-powerbi-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)](#) ![tableau](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)
 
 ![linux][linux] ![aws][aws] ![git][git] ![jenkins][jenkins] ![docker][docker] 
 
@@ -33,7 +33,7 @@ I'm Edwin Ugwu. I am into Data Analysis and Data Science. I love exploring and b
 
 <!-- Links in File  -->
 [linux]: <https://img.shields.io/badge/linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624>
-[aws]: <https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=232F3E>
+[aws]: <https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=white>
 [git]: <https://img.shields.io/badge/git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032>
 [jenkins]: <https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939>
 [docker]: <https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED>
