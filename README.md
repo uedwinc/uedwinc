@@ -20,9 +20,9 @@ I'm Edwin Ugwu. I am into Data Analysis and Data Science. I love exploring and b
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![microsoftexcel Badge](https://img.shields.io/badge/-excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) [![python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![MySql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#) [![powerbi](https://img.shields.io/badge/-powerbi-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)](#)
+[![microsoftexcel Badge](https://img.shields.io/badge/-excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) [![python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![MySql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#) [![powerbi](https://img.shields.io/badge/-powerbi-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)](#) ![tableau](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)
 
-![linux][linux] ![aws][aws] ![git][git] ![jenkins][jenkins] ![docker][docker]
+![linux][linux] ![aws][aws] ![git][git] ![jenkins][jenkins] ![docker][docker] ![terraform][terraform] ![kubernetes][kubernetes] ![ansible][ansible] ![gitlab][gitlab]
 
 
 #### Bizness
@@ -35,3 +35,7 @@ I'm Edwin Ugwu. I am into Data Analysis and Data Science. I love exploring and b
 [git]: <https://img.shields.io/badge/git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032>
 [jenkins]: <https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939>
 [docker]: <https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED>
+[terraform]: <https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&labelColor=black&logo=terraform&logoColor=#844FBA>
+[kubernetes]: <https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=326CE5>
+[ansible]: <https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&labelColor=black&logo=ansible&logoColor=EE0000>
+[gitlab]: <https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=FC6D26>
