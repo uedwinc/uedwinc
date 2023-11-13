@@ -12,7 +12,7 @@ I am a Cloud and DevOps Engineer specializing in AWS. I am also into Data Analys
 
 ### What I currently Do
 
-- 🌱 I’m currently learning **DevOps, MLOps, etc.**
+- 🌱 I’m currently learning **MLOps, etc.**
 - 📫 How to reach me: edwinbuike@gmail.com.
 - ⚡ Fun fact: I go to the GYM very often.
 
