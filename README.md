@@ -20,11 +20,7 @@ I am a Cloud and DevOps Engineer specializing in AWS. I am also into Data Analys
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![microsoftexcel Badge](https://img.shields.io/badge/-excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) [![python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![MySql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#) [![powerbi](https://img.shields.io/badge/-powerbi-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)](#) ![tableau](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)
-
-![linux][linux] ![aws][aws] ![git][git] ![jenkins][jenkins] ![docker][docker] 
-
-![terraform][terraform] ![kubernetes][kubernetes] ![ansible][ansible] ![gitlab][gitlab]
+![linux][linux] ![aws][aws] ![git][git] ![jenkins][jenkins] ![docker][docker] ![terraform][terraform] ![kubernetes][kubernetes] ![ansible][ansible] ![gitlab][gitlab] [![python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
 
 
 #### Bizness
